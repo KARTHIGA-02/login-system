@@ -11,4 +11,4 @@ Here is a quick demo of the app. We hope you enjoy it.
 
 > [The Demo Link](https://sainisahab.com/html/ecom)
 
-Liked it? Please give a ⭐️ to <b>V S Sonu Saini</b> to build its triceps 💪 stronger.
+Liked it? Please give a ⭐️
