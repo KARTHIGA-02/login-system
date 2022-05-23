@@ -4,7 +4,7 @@
 
 # Javascript Register Login System
 
-In this article, you will learn how to create a login and registration forms using HTML, CSS, and JavaScript programming code. We all know that a login form is a design that is used in every website. The user can access his account using the login form. 
+you will learn how to create a login and registration forms using HTML, CSS, and JavaScript programming code. We all know that a login form is a design that is used in every website. The user can access his account using the login form. 
 
 # 🚀 Demo
 Here is a quick demo of the app. We hope you enjoy it.
